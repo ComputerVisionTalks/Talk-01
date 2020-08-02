@@ -17,7 +17,7 @@ Completed his MSc University of Technology of Belfort-Montbeliard in France
 https://scholar.google.com/citations?...
 Paper Link: https://arxiv.org/abs/2006.14699
 
-
+- Link to the talk on YouTube : https://www.youtube.com/watch?v=A-UqKhe5f0I&feature=youtu.be
 - Link to jupyter notebook: https://github.com/ElementAI/bilevel_augment/blob/master/docs/webinar_demo.ipynb
 - Main repository: https://github.com/ElementAI/bilevel_augment
 - Experiment manager library: https://github.com/ElementAI/haven
